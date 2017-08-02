@@ -1,0 +1,1858 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: w2dc v1.0.0\n"
+"POT-Creation-Date: 2013-12-14 15:42+0500\n"
+"PO-Revision-Date: 2013-12-14 15:42+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:129
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions_ui.php:65 functions_ui.php:90
+msgid "Select term"
+msgstr ""
+
+#: functions_ui.php:131
+msgid "- Select All -"
+msgstr ""
+
+#: functions_ui.php:176
+msgid "Date"
+msgstr ""
+
+#: functions_ui.php:189
+msgid "Title"
+msgstr ""
+
+#: functions_ui.php:208
+msgid "Order by: "
+msgstr ""
+
+#: functions_ui.php:221
+msgid "Subcategories:"
+msgstr ""
+
+#: w2dc.php:179
+#, php-format
+msgid ""
+"<b>Directory & Classifieds plugin</b>: sorry, but there isn't any page with "
+"[webdirectory] shortcode. Create <a href=\"%s\">this special page</a> for "
+"you?"
+msgstr ""
+
+#: w2dc.php:256 w2dc.php:348 w2dc.php:360
+msgid "Directory listings"
+msgstr ""
+
+#: w2dc.php:349
+msgid "Directory listing"
+msgstr ""
+
+#: w2dc.php:350 w2dc.php:351
+msgid "Create new listing"
+msgstr ""
+
+#: w2dc.php:352 templates/frontend/listing_single.tpl.php:13
+msgid "Edit listing"
+msgstr ""
+
+#: w2dc.php:353
+msgid "New listing"
+msgstr ""
+
+#: w2dc.php:354 templates/google_map.tpl.php:5
+msgid "View listing"
+msgstr ""
+
+#: w2dc.php:355
+msgid "Search listings"
+msgstr ""
+
+#: w2dc.php:356
+msgid "No listings found"
+msgstr ""
+
+#: w2dc.php:357
+msgid "No listings found in trash"
+msgstr ""
+
+#: w2dc.php:371 classes/categories_manager.php:35
+#: classes/content_fields/content_fields.php:27
+msgid "Listing categories"
+msgstr ""
+
+#: w2dc.php:372 templates/admin_index.tpl.php:63
+msgid "Directory categories"
+msgstr ""
+
+#: w2dc.php:373
+msgid "Category"
+msgstr ""
+
+#: w2dc.php:374
+msgid "Create category"
+msgstr ""
+
+#: w2dc.php:375
+msgid "New category"
+msgstr ""
+
+#: w2dc.php:376
+msgid "Edit category"
+msgstr ""
+
+#: w2dc.php:377
+msgid "View category"
+msgstr ""
+
+#: w2dc.php:378
+msgid "Update category"
+msgstr ""
+
+#: w2dc.php:379
+msgid "Search categories"
+msgstr ""
+
+#: w2dc.php:386 classes/locations/locations_manager.php:29
+msgid "Listing locations"
+msgstr ""
+
+#: w2dc.php:387 templates/admin_index.tpl.php:39
+msgid "Directory locations"
+msgstr ""
+
+#: w2dc.php:388
+msgid "Location"
+msgstr ""
+
+#: w2dc.php:389
+msgid "Create location"
+msgstr ""
+
+#: w2dc.php:390
+msgid "New location"
+msgstr ""
+
+#: w2dc.php:391
+msgid "Edit location"
+msgstr ""
+
+#: w2dc.php:392
+msgid "View location"
+msgstr ""
+
+#: w2dc.php:393
+msgid "Update location"
+msgstr ""
+
+#: w2dc.php:394
+msgid "Search locations"
+msgstr ""
+
+#: w2dc.php:402 classes/content_fields/content_fields.php:28
+msgid "Listing tags"
+msgstr ""
+
+#: w2dc.php:403 templates/admin_index.tpl.php:71
+msgid "Directory tags"
+msgstr ""
+
+#: w2dc.php:404
+msgid "Tag"
+msgstr ""
+
+#: w2dc.php:405
+msgid "Create tag"
+msgstr ""
+
+#: w2dc.php:406
+msgid "New tag"
+msgstr ""
+
+#: w2dc.php:407
+msgid "Edit tag"
+msgstr ""
+
+#: w2dc.php:408
+msgid "View tag"
+msgstr ""
+
+#: w2dc.php:409
+msgid "Update tag"
+msgstr ""
+
+#: w2dc.php:410
+msgid "Search tags"
+msgstr ""
+
+#: w2dc.php:445 w2dc.php:480 classes/settings_manager.php:287
+msgid "Expiration notification"
+msgstr ""
+
+#: w2dc.php:518 templates/frontend/listing_single.tpl.php:26
+msgid "Put in favourites list"
+msgstr ""
+
+#: w2dc.php:519 templates/frontend/listing_single.tpl.php:26
+msgid "Out of favourites list"
+msgstr ""
+
+#: classes/admin.php:41 classes/admin.php:42
+msgid "Choose level of new listing"
+msgstr ""
+
+#: classes/admin.php:74 classes/admin.php:75
+msgid "Directory Admin"
+msgstr ""
+
+#: classes/admin.php:95
+msgid "Directory & Classifieds"
+msgstr ""
+
+#: classes/admin.php:97
+msgid ""
+"\"Directory & Classifieds\" page with [webdirectory] shortcode was "
+"successfully created, thank you!"
+msgstr ""
+
+#: classes/categories_manager.php:61
+msgid "Sorry, you can not choose some categries for this level!"
+msgstr ""
+
+#: classes/categories_manager.php:73
+#: templates/categories/select_icon_form.tpl.php:2
+msgid "Icon"
+msgstr ""
+
+#: classes/categories_manager.php:139
+msgid "Select category icon"
+msgstr ""
+
+#: classes/categories_manager.php:159
+msgid "Sorry, you can not choose this category for this level!"
+msgstr ""
+
+#: classes/categories_manager.php:160
+#, php-format
+msgid "Sorry, you can not choose more than %d categories!"
+msgstr ""
+
+#: classes/form_validation.php:6
+#, php-format
+msgid "The %s field is required."
+msgstr ""
+
+#: classes/form_validation.php:7
+#, php-format
+msgid "The %s field must have a value."
+msgstr ""
+
+#: classes/form_validation.php:8
+#, php-format
+msgid "The %s field must contain a valid email address."
+msgstr ""
+
+#: classes/form_validation.php:9
+#, php-format
+msgid "The %s field must contain all valid email addresses."
+msgstr ""
+
+#: classes/form_validation.php:10
+#, php-format
+msgid "The %s field must contain a valid URL."
+msgstr ""
+
+#: classes/form_validation.php:11
+#, php-format
+msgid "The %s field must contain a valid IP."
+msgstr ""
+
+#: classes/form_validation.php:12
+#, php-format
+msgid "The %s field must be at least %s characters in length."
+msgstr ""
+
+#: classes/form_validation.php:13
+#, php-format
+msgid "The %s field can not exceed %s characters in length."
+msgstr ""
+
+#: classes/form_validation.php:14
+#, php-format
+msgid "The %s field must be exactly %s characters in length."
+msgstr ""
+
+#: classes/form_validation.php:15
+#, php-format
+msgid "The %s field may only contain alphabetical characters."
+msgstr ""
+
+#: classes/form_validation.php:16
+#, php-format
+msgid "The %s field may only contain alpha-numeric characters."
+msgstr ""
+
+#: classes/form_validation.php:17
+#, php-format
+msgid ""
+"The %s field may only contain alpha-numeric characters, underscores, and "
+"dashes."
+msgstr ""
+
+#: classes/form_validation.php:18
+#, php-format
+msgid "The %s field must contain only numbers."
+msgstr ""
+
+#: classes/form_validation.php:19
+#, php-format
+msgid "The %s field must contain only numeric characters."
+msgstr ""
+
+#: classes/form_validation.php:20
+#, php-format
+msgid "The %s field must contain an integer."
+msgstr ""
+
+#: classes/form_validation.php:21
+#, php-format
+msgid "The %s field is not in the correct format."
+msgstr ""
+
+#: classes/form_validation.php:22
+#, php-format
+msgid "The %s field does not match the %s field."
+msgstr ""
+
+#: classes/form_validation.php:23
+#, php-format
+msgid "The %s field must contain a unique value."
+msgstr ""
+
+#: classes/form_validation.php:24
+#, php-format
+msgid "The %s field must contain only positive numbers."
+msgstr ""
+
+#: classes/form_validation.php:25
+#, php-format
+msgid "The %s field must contain a number greater than zero."
+msgstr ""
+
+#: classes/form_validation.php:26
+#, php-format
+msgid "The %s field must contain a decimal number."
+msgstr ""
+
+#: classes/form_validation.php:27
+#, php-format
+msgid "The %s field must contain a number less than %s."
+msgstr ""
+
+#: classes/form_validation.php:28
+#, php-format
+msgid "The %s field must contain a number greater than %s."
+msgstr ""
+
+#: classes/frontend_controller.php:44 classes/frontend_controller.php:80
+#: classes/frontend_controller.php:116 classes/frontend_controller.php:158
+#: classes/frontend_controller.php:184
+msgid "Home"
+msgstr ""
+
+#: classes/frontend_controller.php:78 classes/frontend_controller.php:81
+msgid "Search results"
+msgstr ""
+
+#: classes/frontend_controller.php:183 classes/frontend_controller.php:184
+#: templates/frontend/category.tpl.php:6 templates/frontend/index.tpl.php:6
+#: templates/frontend/listing_single.tpl.php:10
+#: templates/frontend/search.tpl.php:6 templates/frontend/tag.tpl.php:6
+msgid "My favourites"
+msgstr ""
+
+#: classes/frontend_controller.php:290
+msgid "Contact name"
+msgstr ""
+
+#: classes/frontend_controller.php:291
+msgid "Contact email"
+msgstr ""
+
+#: classes/frontend_controller.php:293
+#: templates/frontend/contact_form.tpl.php:21
+msgid "Your message"
+msgstr ""
+
+#: classes/frontend_controller.php:314
+#, php-format
+msgid "%s contacted you about your listing"
+msgstr ""
+
+#: classes/frontend_controller.php:326
+msgid "You message was sent successfully!"
+msgstr ""
+
+#: classes/frontend_controller.php:328
+msgid "An error occurred and your message wasn\\t sent!"
+msgstr ""
+
+#: classes/frontend_controller.php:330
+msgid "Verification code wasn't entered correctly!"
+msgstr ""
+
+#: classes/media_manager.php:30
+msgid "Listing media"
+msgstr ""
+
+#: classes/media_manager.php:113 templates/media_metabox.tpl.php:63
+msgid "Choose image to upload first!"
+msgstr ""
+
+#: classes/media_manager.php:124
+msgid "Listing images ID"
+msgstr ""
+
+#: classes/media_manager.php:125
+msgid "Listing images caption"
+msgstr ""
+
+#: classes/media_manager.php:127
+msgid "Logo image selection"
+msgstr ""
+
+#: classes/media_manager.php:130
+msgid "Listing video ID"
+msgstr ""
+
+#: classes/media_manager.php:131
+msgid "Listing video caption"
+msgstr ""
+
+#: classes/settings_manager.php:11 classes/settings_manager.php:12
+#: templates/admin_index.tpl.php:23 templates/settings_common.tpl.php:5
+msgid "Directory settings"
+msgstr ""
+
+#: classes/settings_manager.php:23
+msgid "General settings"
+msgstr ""
+
+#: classes/settings_manager.php:29
+msgid "Directory title"
+msgstr ""
+
+#: classes/settings_manager.php:37
+msgid "Category slug"
+msgstr ""
+
+#: classes/settings_manager.php:45
+msgid "Tag slug"
+msgstr ""
+
+#: classes/settings_manager.php:55
+msgid "reCaptcha settings"
+msgstr ""
+
+#: classes/settings_manager.php:61
+msgid "Enable reCaptcha"
+msgstr ""
+
+#: classes/settings_manager.php:69
+msgid "reCaptcha public key"
+msgstr ""
+
+#: classes/settings_manager.php:77
+msgid "reCaptcha private key"
+msgstr ""
+
+#: classes/settings_manager.php:88
+msgid "Categories settings"
+msgstr ""
+
+#: classes/settings_manager.php:94
+msgid "Show categories list on index and excerpt pages?"
+msgstr ""
+
+#: classes/settings_manager.php:102
+msgid "Categories nesting level"
+msgstr ""
+
+#: classes/settings_manager.php:110
+msgid "Show category posts count?"
+msgstr ""
+
+#: classes/settings_manager.php:120
+msgid "Search settings"
+msgstr ""
+
+#: classes/settings_manager.php:126
+msgid "Show \"What search\" section?"
+msgstr ""
+
+#: classes/settings_manager.php:134
+msgid "Show \"Where search\" section?"
+msgstr ""
+
+#: classes/settings_manager.php:144
+msgid "Listings settings"
+msgstr ""
+
+#: classes/settings_manager.php:150
+msgid "Show listings on index"
+msgstr ""
+
+#: classes/settings_manager.php:158
+msgid "Number of listings on index page"
+msgstr ""
+
+#: classes/settings_manager.php:166
+msgid "Number of listings on excerpt page"
+msgstr ""
+
+#: classes/settings_manager.php:174
+msgid "Do listings have own pages?"
+msgstr ""
+
+#: classes/settings_manager.php:182
+msgid "Place listing images gallery on separate tab?"
+msgstr ""
+
+#: classes/settings_manager.php:190
+msgid "Enable contact form on listing page"
+msgstr ""
+
+#: classes/settings_manager.php:198
+msgid "Enable favourites list"
+msgstr ""
+
+#: classes/settings_manager.php:206
+msgid "Show print listing button"
+msgstr ""
+
+#: classes/settings_manager.php:214
+msgid "Show listing in PDF button"
+msgstr ""
+
+#: classes/settings_manager.php:225
+msgid "Maps settings"
+msgstr ""
+
+#: classes/settings_manager.php:231
+msgid "Show map on index page?"
+msgstr ""
+
+#: classes/settings_manager.php:239
+msgid "Show map on excerpt page?"
+msgstr ""
+
+#: classes/settings_manager.php:247
+msgid "Show directions panel for the listing map?"
+msgstr ""
+
+#: classes/settings_manager.php:255
+msgid "Default Google Maps zoom level"
+msgstr ""
+
+#: classes/settings_manager.php:265
+msgid "Email notifications settings"
+msgstr ""
+
+#: classes/settings_manager.php:271
+msgid "Days before pre-expiration notification will be sent"
+msgstr ""
+
+#: classes/settings_manager.php:279
+msgid "Pre-expiration notification"
+msgstr ""
+
+#: classes/settings_manager.php:298
+msgid "This title will be used in HTML title tag of every directory page"
+msgstr ""
+
+#: classes/settings_manager.php:312
+#, php-format
+msgid "get your reCAPTCHA API Keys <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: classes/settings_manager.php:414
+msgid "Settings saved!"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:25
+msgid "Excerpt"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:26
+msgid "Content"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:29
+msgid "Listing addresses"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:30
+msgid "Text string"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:31
+msgid "Textarea"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:32
+msgid "Number"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:33
+msgid "Select list"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:34
+msgid "Radio buttons"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:35
+msgid "Checkboxes"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:36
+msgid "Website URL"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:37
+msgid "Email"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:38
+msgid "Date-Time"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:39
+msgid "Price"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:217
+msgid "Content field name"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:219
+msgid "Content field slug"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:220
+msgid "Content field description"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:221
+#: classes/content_fields/content_fields_manager.php:185
+#: templates/content_fields/add_edit_content_field.tpl.php:162
+msgid "Icon image"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:223
+msgid "Content field required"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:225
+#: templates/content_fields/add_edit_content_field.tpl.php:220
+msgid "Order by field"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:226
+#: templates/content_fields/add_edit_content_field.tpl.php:138
+msgid "Hide name"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:227
+#: templates/content_fields/add_edit_content_field.tpl.php:233
+msgid "On excerpt page"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:228
+#: templates/content_fields/add_edit_content_field.tpl.php:245
+msgid "On listing page"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:231
+msgid "Content field type"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:233
+#: classes/levels/levels_manager.php:72
+#: templates/content_fields/add_edit_content_field.tpl.php:261
+#: templates/levels/add_edit_level.tpl.php:275
+msgid "Assigned categories"
+msgstr ""
+
+#: classes/content_fields/content_fields.php:249
+msgid "Can't use this slug"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:20
+#: classes/content_fields/content_fields_manager.php:21
+#: classes/content_fields/content_fields_manager.php:148
+#: templates/admin_index.tpl.php:55
+#: templates/content_fields/content_fields_table.tpl.php:27
+msgid "Content fields"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:48
+msgid "Content fields order was updated!"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:83
+msgid "Content field was updated successfully!"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:87
+msgid "Content field was created succcessfully!"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:108
+msgid "This content field can't be configured"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:121
+msgid "Content field was deleted successfully!"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:125
+msgid "Delete conent field"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:125
+#, php-format
+msgid "Are you sure you want delete \"%s\" content field?"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:174
+msgid "content field"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:175
+msgid "content fields"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:182
+#: classes/levels/levels_manager.php:142 classes/levels/levels_manager.php:241
+#: classes/locations/locations_levels.php:105
+msgid "Name"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:183
+#: templates/content_fields/add_edit_content_field.tpl.php:175
+msgid "Field type"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:184
+msgid "Required"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:222
+#: classes/levels/levels_manager.php:183
+#: classes/locations/locations_levels.php:134
+msgid "Edit"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:224
+msgid "Configure"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:229
+#: classes/levels/levels_manager.php:184
+#: classes/locations/locations_levels.php:135
+#: templates/delete_question.tpl.php:13
+msgid "Delete"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:259
+msgid "On exerpt"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:261
+msgid "On listing"
+msgstr ""
+
+#: classes/content_fields/content_fields_manager.php:279
+msgid "No content fields found."
+msgstr ""
+
+#: classes/content_fields/fields/content_field_checkbox.php:21
+#: classes/content_fields/fields/content_field_select.php:53
+#, php-format
+msgid "This selection option \"%s\" doesn't exist"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_checkbox.php:26
+#, php-format
+msgid "At least one option must be selected in \"%s\" content field"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_content.php:11
+msgid "Listing content is required"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_datetime.php:14
+#: templates/content_fields/fields/datetime_configuration.tpl.php:14
+msgid "Enable time in field"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_datetime.php:18
+#: classes/content_fields/fields/content_field_number.php:27
+#: classes/content_fields/fields/content_field_price.php:25
+#: classes/content_fields/fields/content_field_select.php:19
+#: classes/content_fields/fields/content_field_string.php:23
+#: classes/content_fields/fields/content_field_textarea.php:20
+#: classes/content_fields/fields/content_field_website.php:20
+msgid "Field configuration was updated successfully!"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_excerpt.php:11
+msgid "Listing excerpt is required"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_number.php:19
+msgid "Is integer or decimal"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_number.php:20
+#: classes/content_fields/fields/content_field_price.php:20
+#: templates/content_fields/fields/number_configuration.tpl.php:34
+#: templates/content_fields/fields/price_configuration.tpl.php:38
+msgid "Decimal separator"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_number.php:21
+#: classes/content_fields/fields/content_field_price.php:21
+#: templates/content_fields/fields/number_configuration.tpl.php:45
+#: templates/content_fields/fields/price_configuration.tpl.php:49
+msgid "Thousands separator"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_number.php:22
+#: templates/content_fields/fields/number_configuration.tpl.php:58
+msgid "Min"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_number.php:23
+#: templates/content_fields/fields/number_configuration.tpl.php:71
+msgid "Max"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_price.php:18
+#: templates/content_fields/fields/price_configuration.tpl.php:14
+msgid "Currency symbol"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_price.php:19
+#: templates/content_fields/fields/price_configuration.tpl.php:26
+msgid "Currency code"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_select.php:15
+msgid "Selection items"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_string.php:17
+#: classes/content_fields/fields/content_field_textarea.php:16
+#: templates/content_fields/fields/string_configuration.tpl.php:14
+#: templates/content_fields/fields/textarea_configuration.tpl.php:14
+msgid "Max length"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_string.php:18
+#: templates/content_fields/fields/string_configuration.tpl.php:26
+msgid "Input HTML field size"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_string.php:19
+#: templates/content_fields/fields/string_configuration.tpl.php:38
+msgid "PHP RegEx template"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_string.php:59
+#, php-format
+msgid "Field %s doesn't match template!"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_website.php:15
+#: templates/content_fields/fields/website_configuration.tpl.php:14
+msgid "Open link in new window"
+msgstr ""
+
+#: classes/content_fields/fields/content_field_website.php:16
+#: templates/content_fields/fields/website_configuration.tpl.php:27
+msgid "Add nofollow attribute"
+msgstr ""
+
+#: classes/levels/levels.php:214
+msgid "Never expire"
+msgstr ""
+
+#: classes/levels/levels.php:218
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/levels/levels.php:220
+msgid "month"
+msgid_plural "months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/levels/levels.php:222
+msgid "year"
+msgid_plural "years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/levels/levels_manager.php:10 classes/levels/levels_manager.php:11
+#: templates/admin_index.tpl.php:31 templates/levels/levels_table.tpl.php:27
+msgid "Listings levels"
+msgstr ""
+
+#: classes/levels/levels_manager.php:37
+msgid "Levels order was updated!"
+msgstr ""
+
+#: classes/levels/levels_manager.php:57
+#: classes/locations/locations_levels_manager.php:50
+#: templates/levels/add_edit_level.tpl.php:43
+#: templates/locations/add_edit_locations_level.tpl.php:19
+msgid "Level name"
+msgstr ""
+
+#: classes/levels/levels_manager.php:58
+msgid "years"
+msgstr ""
+
+#: classes/levels/levels_manager.php:59
+msgid "months"
+msgstr ""
+
+#: classes/levels/levels_manager.php:60
+msgid "days"
+msgstr ""
+
+#: classes/levels/levels_manager.php:61
+#: templates/levels/add_edit_level.tpl.php:55
+msgid "Level description"
+msgstr ""
+
+#: classes/levels/levels_manager.php:62
+#: templates/levels/add_edit_level.tpl.php:151
+msgid "Ability to raise up listings"
+msgstr ""
+
+#: classes/levels/levels_manager.php:63
+#: templates/levels/add_edit_level.tpl.php:164
+msgid "Sticky listings"
+msgstr ""
+
+#: classes/levels/levels_manager.php:64
+#: templates/levels/add_edit_level.tpl.php:177
+msgid "Featured listings"
+msgstr ""
+
+#: classes/levels/levels_manager.php:65
+#: templates/levels/add_edit_level.tpl.php:253
+msgid "Categories number available"
+msgstr ""
+
+#: classes/levels/levels_manager.php:66
+msgid "Unlimited categories number"
+msgstr ""
+
+#: classes/levels/levels_manager.php:67
+#: templates/levels/add_edit_level.tpl.php:190
+msgid "Enable google map"
+msgstr ""
+
+#: classes/levels/levels_manager.php:68
+#: templates/levels/add_edit_level.tpl.php:202
+msgid "Enable listing logo"
+msgstr ""
+
+#: classes/levels/levels_manager.php:69
+#: templates/levels/add_edit_level.tpl.php:214
+msgid "Listing logo size"
+msgstr ""
+
+#: classes/levels/levels_manager.php:70
+#: templates/levels/add_edit_level.tpl.php:226
+msgid "Images number available"
+msgstr ""
+
+#: classes/levels/levels_manager.php:71
+#: templates/levels/add_edit_level.tpl.php:238
+msgid "Videos number available"
+msgstr ""
+
+#: classes/levels/levels_manager.php:78
+#: classes/locations/locations_levels_manager.php:57
+msgid "Level was updated successfully!"
+msgstr ""
+
+#: classes/levels/levels_manager.php:82
+#: classes/locations/locations_levels_manager.php:61
+msgid "Level was created succcessfully!"
+msgstr ""
+
+#: classes/levels/levels_manager.php:104
+#: classes/locations/locations_levels_manager.php:83
+msgid "Level was deleted successfully!"
+msgstr ""
+
+#: classes/levels/levels_manager.php:108
+msgid "Delete level"
+msgstr ""
+
+#: classes/levels/levels_manager.php:108
+#, php-format
+msgid "Are you sure you want delete \"%s\" level with all listings inside?"
+msgstr ""
+
+#: classes/levels/levels_manager.php:134 classes/levels/levels_manager.php:233
+msgid "level"
+msgstr ""
+
+#: classes/levels/levels_manager.php:135 classes/levels/levels_manager.php:234
+msgid "levels"
+msgstr ""
+
+#: classes/levels/levels_manager.php:143 classes/levels/levels_manager.php:242
+#: templates/levels/add_edit_level.tpl.php:67
+msgid "Active period"
+msgstr ""
+
+#: classes/levels/levels_manager.php:144 classes/levels/levels_manager.php:243
+msgid "Sticky"
+msgstr ""
+
+#: classes/levels/levels_manager.php:145 classes/levels/levels_manager.php:244
+msgid "Featured"
+msgstr ""
+
+#: classes/levels/levels_manager.php:146 classes/levels/levels_manager.php:245
+msgid "Categories number"
+msgstr ""
+
+#: classes/levels/levels_manager.php:147 classes/levels/levels_manager.php:246
+msgid "Google map"
+msgstr ""
+
+#: classes/levels/levels_manager.php:168 classes/levels/levels_manager.php:212
+#: classes/levels/levels_manager.php:270 classes/levels/levels_manager.php:319
+msgid "Unlimited"
+msgstr ""
+
+#: classes/levels/levels_manager.php:225
+msgid "No levels found."
+msgstr ""
+
+#: classes/levels/levels_manager.php:274
+msgid "Create listing in this level"
+msgstr ""
+
+#: classes/levels/levels_manager.php:332
+msgid "No levels found. Can't create new listings."
+msgstr ""
+
+#: classes/listings/listings_manager.php:34
+msgid "Listing Info"
+msgstr ""
+
+#: classes/listings/listings_manager.php:51
+msgid "Level"
+msgstr ""
+
+#: classes/listings/listings_manager.php:52
+msgid "Expiration date"
+msgstr ""
+
+#: classes/listings/listings_manager.php:68
+#: templates/levels/add_edit_level.tpl.php:138
+#: templates/listings/info_metabox.tpl.php:40
+msgid "Eternal active period"
+msgstr ""
+
+#: classes/listings/listings_manager.php:72
+#: templates/listings/info_metabox.tpl.php:17
+msgid "renew listing"
+msgstr ""
+
+#: classes/listings/listings_manager.php:84
+#: templates/listings/info_metabox.tpl.php:30
+msgid "raise up listing"
+msgstr ""
+
+#: classes/listings/listings_manager.php:92
+#: classes/listings/listings_manager.php:93
+#: templates/listings/raise_up.tpl.php:5
+msgid "Raise up listing"
+msgstr ""
+
+#: classes/listings/listings_manager.php:108
+msgid "Listing was raised up successfully!"
+msgstr ""
+
+#: classes/listings/listings_manager.php:110
+msgid "An error has occurred and listing was not raised up"
+msgstr ""
+
+#: classes/listings/listings_manager.php:123
+#: classes/listings/listings_manager.php:124
+#: templates/listings/renew.tpl.php:5 templates/listings/renew.tpl.php:13
+msgid "Renew listing"
+msgstr ""
+
+#: classes/listings/listings_manager.php:139
+msgid "Listing was renewed successfully!"
+msgstr ""
+
+#: classes/listings/listings_manager.php:141
+msgid "An error has occurred and listing was not renewed"
+msgstr ""
+
+#: classes/listings/listings_manager.php:205
+msgid "Auto Draft"
+msgstr ""
+
+#: classes/listings/listings_manager.php:206
+msgid "Listing title field required"
+msgstr ""
+
+#: classes/listings/listings_manager.php:243
+msgid "You can't publish listing until it has expired status!"
+msgstr ""
+
+#: classes/listings/listings_manager.php:248
+msgid "Listing was saved successfully!"
+msgstr ""
+
+#: classes/locations/locations_levels.php:97
+msgid "locations level"
+msgstr ""
+
+#: classes/locations/locations_levels.php:98
+msgid "locations levels"
+msgstr ""
+
+#: classes/locations/locations_levels.php:107
+#: classes/locations/locations_levels_manager.php:52
+#: templates/locations/add_edit_locations_level.tpl.php:40
+msgid "In address line"
+msgstr ""
+
+#: classes/locations/locations_levels.php:162
+msgid "No locations levels found"
+msgstr ""
+
+#: classes/locations/locations_levels_manager.php:11
+#: classes/locations/locations_levels_manager.php:12
+#: templates/admin_index.tpl.php:47
+#: templates/locations/locations_levels_table.tpl.php:5
+msgid "Locations levels"
+msgstr ""
+
+#: classes/locations/locations_levels_manager.php:87
+msgid "Delete locations level"
+msgstr ""
+
+#: classes/locations/locations_levels_manager.php:87
+#, php-format
+msgid "Are you sure you want delete \"%s\" locations level?"
+msgstr ""
+
+#: classes/locations/locations_manager.php:56
+msgid "Selected location"
+msgstr ""
+
+#: classes/locations/locations_manager.php:57
+#: templates/locations/locations_in_metabox.tpl.php:17
+msgid "Address line 1"
+msgstr ""
+
+#: classes/locations/locations_manager.php:58
+#: templates/locations/locations_in_metabox.tpl.php:24
+msgid "Address line 2"
+msgstr ""
+
+#: classes/locations/locations_manager.php:59
+#: templates/locations/locations_in_metabox.tpl.php:31
+msgid "Zip or postal index"
+msgstr ""
+
+#: classes/locations/locations_manager.php:60
+msgid "Use manual coordinates"
+msgstr ""
+
+#: classes/locations/locations_manager.php:61
+#: templates/locations/locations_in_metabox.tpl.php:46
+msgid "Latitude"
+msgstr ""
+
+#: classes/locations/locations_manager.php:62
+#: templates/locations/locations_in_metabox.tpl.php:54
+msgid "Longitude"
+msgstr ""
+
+#: classes/locations/locations_manager.php:63
+msgid "Map zoom"
+msgstr ""
+
+#: templates/admin_index.tpl.php:5
+msgid "Directory & Classifieds plugin"
+msgstr ""
+
+#: templates/admin_index.tpl.php:15
+msgid "View all listings"
+msgstr ""
+
+#: templates/admin_index.tpl.php:18
+msgid ""
+"<b>Manage your directory listings.</b> You may manage any listings, "
+"comments, attached images and videos. According to listings levels settings "
+"some items may be raised up, expired items may be renewed manually."
+msgstr ""
+
+#: templates/admin_index.tpl.php:26
+msgid ""
+"<b>Manage main directory settings.</b> Configure general settings, listings, "
+"maps, directory pages, listings views, email notifications, search form and "
+"much more."
+msgstr ""
+
+#: templates/admin_index.tpl.php:34
+msgid ""
+"Levels of listings control the functionality amount of listings and their "
+"<b>directory/classifieds conception</b>. Each listing may belong to "
+"different levels, some may have eternal active period, have sticky status "
+"and enabled google maps, other may have greater number of allowed attached "
+"images or videos."
+msgstr ""
+
+#: templates/admin_index.tpl.php:42
+msgid ""
+"<b>Manage directory locations.</b> Fill in locations tree with countries, "
+"states, cities."
+msgstr ""
+
+#: templates/admin_index.tpl.php:50
+msgid ""
+"By default there are 3 locations levels: country, state and city. Remove "
+"existed or set up new locations levels."
+msgstr ""
+
+#: templates/admin_index.tpl.php:58
+msgid ""
+"Set up content fields for listings. Each field has type that defines its "
+"behaviour. You may hide field name, select custom field icon, set field as "
+"required, manage visibility on pages. Also listings may be ordered by some "
+"fields. Note that you may <b>assign fields for specific categories</b>."
+msgstr ""
+
+#: templates/admin_index.tpl.php:66
+msgid "Manage directory categories."
+msgstr ""
+
+#: templates/admin_index.tpl.php:74
+msgid "Manage directory tags."
+msgstr ""
+
+#: templates/google_map.tpl.php:6
+msgid "View listing summary"
+msgstr ""
+
+#: templates/google_map.tpl.php:12
+msgid "Get direction from:"
+msgstr ""
+
+#: templates/google_map.tpl.php:15
+msgid "direction to:"
+msgstr ""
+
+#: templates/google_map.tpl.php:22
+msgid "Get direction"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:10 templates/media_metabox.tpl.php:36
+msgid "remove image"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:10 templates/media_metabox.tpl.php:43
+msgid "set this image as logo"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:28
+msgid "Listing images"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:54
+msgid ""
+"Crop thumbnail to exact dimensions (normally thumbnails are proportional)"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:65
+msgid "Upload image"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:80 templates/media_metabox.tpl.php:109
+msgid "remove video"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:87
+msgid "Wrong URL or this videos unavailable"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:103
+msgid "Listing videos"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:121
+msgid "Enter full YouTube video link"
+msgstr ""
+
+#: templates/media_metabox.tpl.php:130
+msgid "Attach video"
+msgstr ""
+
+#: templates/search_form.tpl.php:61
+msgid "What search"
+msgstr ""
+
+#: templates/search_form.tpl.php:65
+msgid "Enter keywords"
+msgstr ""
+
+#: templates/search_form.tpl.php:73
+msgid "Where search"
+msgstr ""
+
+#: templates/search_form.tpl.php:85
+msgid "Enter address or zip code"
+msgstr ""
+
+#: templates/search_form.tpl.php:95
+msgid "Search"
+msgstr ""
+
+#: templates/settings_common.tpl.php:12
+msgid "General"
+msgstr ""
+
+#: templates/settings_common.tpl.php:13
+msgid "Listings"
+msgstr ""
+
+#: templates/settings_common.tpl.php:14
+msgid "Pages & views"
+msgstr ""
+
+#: templates/settings_common.tpl.php:15
+msgid "Maps"
+msgstr ""
+
+#: templates/settings_common.tpl.php:16
+msgid "Email notifications"
+msgstr ""
+
+#: templates/categories/select_icons_dialog.tpl.php:1
+#: templates/content_fields/select_icons.tpl.php:1
+msgid "Reset icon image"
+msgstr ""
+
+#: templates/categories/select_icon_form.tpl.php:5
+msgid "Associate an icon to this category"
+msgstr ""
+
+#: templates/categories/select_icon_link.tpl.php:5
+msgid "Select icon"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:7
+msgid "Edit content field"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:9
+msgid "Create new content field"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:13
+msgid ""
+"You can't select assigned categories for core fields such as content, "
+"excerpt, categories, tags and addresses"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:60
+msgid "Select content field icon"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:110
+msgid "Field name"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:124
+msgid "Field slug"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:146
+msgid "Hide field name at the frontend?"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:151
+msgid "Field description"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:168
+msgid "Select field icon"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:179
+msgid "- Select field type -"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:199
+msgid "You can't change the type of core fields"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:207
+msgid "Is this field required?"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:228
+msgid "Is it possible to order listings by this field?"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:274
+#: templates/content_fields/fields/datetime_configuration.tpl.php:28
+#: templates/content_fields/fields/number_configuration.tpl.php:85
+#: templates/content_fields/fields/price_configuration.tpl.php:63
+#: templates/content_fields/fields/select_configuration.tpl.php:57
+#: templates/content_fields/fields/string_configuration.tpl.php:51
+#: templates/content_fields/fields/textarea_configuration.tpl.php:27
+#: templates/content_fields/fields/website_configuration.tpl.php:41
+#: templates/levels/add_edit_level.tpl.php:288
+#: templates/locations/add_edit_locations_level.tpl.php:52
+msgid "Save changes"
+msgstr ""
+
+#: templates/content_fields/add_edit_content_field.tpl.php:276
+msgid "Create content field"
+msgstr ""
+
+#: templates/content_fields/content_fields_metabox.tpl.php:44
+msgid "Content fields may be dependent on selected categories"
+msgstr ""
+
+#: templates/content_fields/content_fields_table.tpl.php:28
+msgid "Create new field"
+msgstr ""
+
+#: templates/content_fields/content_fields_table.tpl.php:31
+msgid "You may order content fields by drag & drop rows in the table."
+msgstr ""
+
+#: templates/content_fields/content_fields_table.tpl.php:38
+#: templates/levels/levels_table.tpl.php:38
+msgid "Save order"
+msgstr ""
+
+#: templates/content_fields/fields/datetime_configuration.tpl.php:5
+msgid "Configure date-time field"
+msgstr ""
+
+#: templates/content_fields/fields/datetime_input.tpl.php:32
+msgid "reset date"
+msgstr ""
+
+#: templates/content_fields/fields/datetime_input.tpl.php:34
+msgid "Time:"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:5
+msgid "Configure number field"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:14
+msgid "Is insteger or decimal"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:22
+msgid "integer"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:29
+msgid "decimal"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:38
+#: templates/content_fields/fields/number_configuration.tpl.php:50
+#: templates/content_fields/fields/price_configuration.tpl.php:42
+#: templates/content_fields/fields/price_configuration.tpl.php:54
+msgid "dot"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:39
+#: templates/content_fields/fields/number_configuration.tpl.php:51
+#: templates/content_fields/fields/price_configuration.tpl.php:43
+#: templates/content_fields/fields/price_configuration.tpl.php:55
+msgid "comma"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:49
+#: templates/content_fields/fields/price_configuration.tpl.php:53
+msgid "no separator"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:52
+#: templates/content_fields/fields/price_configuration.tpl.php:56
+msgid "space"
+msgstr ""
+
+#: templates/content_fields/fields/number_configuration.tpl.php:66
+#: templates/content_fields/fields/number_configuration.tpl.php:79
+msgid "leave empty if you do not need to limit this field"
+msgstr ""
+
+#: templates/content_fields/fields/price_configuration.tpl.php:5
+msgid "Configure price field"
+msgstr ""
+
+#: templates/content_fields/fields/select_configuration.tpl.php:5
+msgid "Configure select/radio buttons/checkboxes field"
+msgstr ""
+
+#: templates/content_fields/fields/select_configuration.tpl.php:11
+#: templates/content_fields/fields/select_configuration.tpl.php:37
+#: templates/content_fields/fields/select_configuration.tpl.php:47
+msgid "Remove selection item"
+msgstr ""
+
+#: templates/content_fields/fields/select_configuration.tpl.php:25
+msgid "Selection items:"
+msgstr ""
+
+#: templates/content_fields/fields/select_configuration.tpl.php:55
+msgid "Add selection item"
+msgstr ""
+
+#: templates/content_fields/fields/select_input.tpl.php:5
+msgid "- Select item -"
+msgstr ""
+
+#: templates/content_fields/fields/string_configuration.tpl.php:5
+msgid "Configure text string field"
+msgstr ""
+
+#: templates/content_fields/fields/textarea_configuration.tpl.php:5
+msgid "Configure textarea field"
+msgstr ""
+
+#: templates/content_fields/fields/website_configuration.tpl.php:5
+msgid "Configure website field"
+msgstr ""
+
+#: templates/content_fields/fields/website_input.tpl.php:4
+msgid "URL:"
+msgstr ""
+
+#: templates/content_fields/fields/website_input.tpl.php:6
+msgid "Link text:"
+msgstr ""
+
+#: templates/emails/contact_form.tpl.php:1
+msgid "Listing title:"
+msgstr ""
+
+#: templates/emails/contact_form.tpl.php:3
+msgid "Listing URL:"
+msgstr ""
+
+#: templates/emails/contact_form.tpl.php:5
+msgid "Name:"
+msgstr ""
+
+#: templates/emails/contact_form.tpl.php:7
+msgid "Email:"
+msgstr ""
+
+#: templates/emails/contact_form.tpl.php:9
+msgid "Message:"
+msgstr ""
+
+#: templates/frontend/category.tpl.php:34
+#: templates/frontend/favourites.tpl.php:21
+#: templates/frontend/index.tpl.php:21 templates/frontend/search.tpl.php:32
+#: templates/frontend/tag.tpl.php:36
+#, php-format
+msgid "Found %d listing"
+msgid_plural "Found %d listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/frontend/category.tpl.php:50
+#: templates/frontend/favourites.tpl.php:32
+#: templates/frontend/index.tpl.php:37 templates/frontend/search.tpl.php:48
+#: templates/frontend/tag.tpl.php:52
+msgid "View listing >>"
+msgstr ""
+
+#: templates/frontend/contact_form.tpl.php:4
+msgid "Send message to listing owner"
+msgstr ""
+
+#: templates/frontend/contact_form.tpl.php:8
+#, php-format
+msgid ""
+"You are currently logged in as %s. Your message will be sent using your "
+"logged in name and email."
+msgstr ""
+
+#: templates/frontend/contact_form.tpl.php:12
+msgid "Contact Name"
+msgstr ""
+
+#: templates/frontend/contact_form.tpl.php:16
+msgid "Contact Email"
+msgstr ""
+
+#: templates/frontend/contact_form.tpl.php:27
+msgid "Send"
+msgstr ""
+
+#: templates/frontend/favourites.tpl.php:27
+msgid "Remove from favourites list"
+msgstr ""
+
+#: templates/frontend/listing.tpl.php:13
+msgid "sticky listing"
+msgstr ""
+
+#: templates/frontend/listing.tpl.php:48
+#, php-format
+msgid "%d reply"
+msgid_plural "%d replies"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/frontend/listing.tpl.php:93
+#: templates/frontend/listing_print.tpl.php:69
+msgid "Map"
+msgstr ""
+
+#: templates/frontend/listing.tpl.php:96
+msgid "Comments"
+msgstr ""
+
+#: templates/frontend/listing.tpl.php:99
+#: templates/frontend/listing_print.tpl.php:74
+msgid "Images"
+msgstr ""
+
+#: templates/frontend/listing.tpl.php:102
+msgid "Videos"
+msgstr ""
+
+#: templates/frontend/listing.tpl.php:105
+msgid "Contact"
+msgstr ""
+
+#: templates/frontend/listing_print.tpl.php:39
+#: templates/frontend/listing_print.tpl.php:97
+#: templates/frontend/listing_single.tpl.php:23
+msgid "Print listing"
+msgstr ""
+
+#: templates/frontend/listing_print.tpl.php:39
+#: templates/frontend/listing_print.tpl.php:97
+msgid "Close window"
+msgstr ""
+
+#: templates/frontend/listing_print.tpl.php:86
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/frontend/listing_single.tpl.php:29
+msgid "Save listing in PDF"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:7
+msgid "Edit level"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:9
+#: templates/levels/levels_table.tpl.php:28
+msgid "Create new level"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:62
+msgid ""
+"Describe this level's advantages and options as much easier for users as you "
+"can"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:82
+msgid "year(s)"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:98
+msgid "month(s)"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:132
+msgid "day(s)"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:133
+msgid "During this period the listing will have active status"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:159
+msgid "This option may be payment"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:172
+msgid "Listings of this level will be always on top"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:185
+msgid "Listings of this level will be marked as featured"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:218
+msgid "thumbnail"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:219
+msgid "medium"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:220
+msgid "large"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:270
+msgid "unlimited categories"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:278
+msgid ""
+"You may define some special categories, those would be available for this "
+"level"
+msgstr ""
+
+#: templates/levels/add_edit_level.tpl.php:290
+msgid "Create level"
+msgstr ""
+
+#: templates/levels/choose_levels_table.tpl.php:5
+msgid "Choose level for new listing"
+msgstr ""
+
+#: templates/levels/choose_levels_table.tpl.php:9
+#, php-format
+msgid ""
+"Before listings creation you must have at least one listings level, please "
+"create new level <a href=\"%s\">here</a>"
+msgstr ""
+
+#: templates/levels/levels_table.tpl.php:31
+msgid "You may order listings levels by drag & drop rows in the table."
+msgstr ""
+
+#: templates/listings/info_metabox.tpl.php:3
+msgid "Listing level"
+msgstr ""
+
+#: templates/listings/info_metabox.tpl.php:11
+msgid "Listing status"
+msgstr ""
+
+#: templates/listings/info_metabox.tpl.php:14
+msgid "active"
+msgstr ""
+
+#: templates/listings/info_metabox.tpl.php:16
+msgid "expired"
+msgstr ""
+
+#: templates/listings/info_metabox.tpl.php:19
+msgid "stopped"
+msgstr ""
+
+#: templates/listings/info_metabox.tpl.php:26
+msgid "Order date"
+msgstr ""
+
+#: templates/listings/info_metabox.tpl.php:38
+msgid "Expiry on"
+msgstr ""
+
+#: templates/listings/raise_up.tpl.php:8
+msgid ""
+"Listing will be raised up to the top of all lists, those ordered by date."
+msgstr ""
+
+#: templates/listings/raise_up.tpl.php:9
+msgid ""
+"Note, that listing will not stick on top, so new listings and other "
+"listings, those were raised up later, will place higher."
+msgstr ""
+
+#: templates/listings/raise_up.tpl.php:14
+msgid "Raise up"
+msgstr ""
+
+#: templates/listings/raise_up.tpl.php:16 templates/listings/renew.tpl.php:15
+msgid "Cancel"
+msgstr ""
+
+#: templates/listings/raise_up.tpl.php:18 templates/listings/renew.tpl.php:17
+msgid "Go back "
+msgstr ""
+
+#: templates/listings/renew.tpl.php:8
+msgid ""
+"Listing will be renewed and raised up to the top of all lists, those ordered "
+"by date."
+msgstr ""
+
+#: templates/locations/add_edit_locations_level.tpl.php:7
+msgid "Edit locations level"
+msgstr ""
+
+#: templates/locations/add_edit_locations_level.tpl.php:9
+#: templates/locations/locations_levels_table.tpl.php:6
+msgid "Create new locations level"
+msgstr ""
+
+#: templates/locations/add_edit_locations_level.tpl.php:44
+msgid "Render locations of this level in address line"
+msgstr ""
+
+#: templates/locations/add_edit_locations_level.tpl.php:54
+msgid "Create locations level"
+msgstr ""
+
+#: templates/locations/locations_in_metabox.tpl.php:39
+msgid "Enter coordinates manually"
+msgstr ""
+
+#: templates/locations/locations_metabox.tpl.php:28
+msgid "Generate on google map"
+msgstr ""
